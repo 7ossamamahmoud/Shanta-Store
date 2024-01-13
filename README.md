@@ -1,4 +1,4 @@
-#Shanta Store:
+# Shanta Store:
 
 ### Shanta Online Store is a versatile and user-friendly mobile application designed to provide a seamless and enjoyable shopping experience. With an intuitive and visually appealing user interface, it offers a range of features that enhance flexibility and convenience for users.
 
